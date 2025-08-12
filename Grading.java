@@ -27,7 +27,7 @@ switch (score / 10){
   case 6 : System.out.println("C"); break;
   case 5 : System.out.println("D"); break;
   case 4, 3, 2, 1, 0 : System.out.println("f"); break;
-  default : 11, -2000000;
+  default :
 }
  
 
